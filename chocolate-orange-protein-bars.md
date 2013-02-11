@@ -22,7 +22,7 @@ All calorie counts are approximate. Use your own packaging to check.
 ## Instructions
 
 1. Set the oven to about 160 - 180 degrees.
-2. Melt the butter in a saucepan on the hob (on a ver low heat)
+2. Melt the butter in a saucepan on the hob (on a very low heat)
 3. Cut the oranges into small inch-sized chunks and add to a blender
     - I use the whole orange including the skin. If you don't want to do this then zest one orange into the mix at the end to make it more orangey.
 4. Add the egg white to the large bowl and whisk
@@ -37,13 +37,15 @@ All calorie counts are approximate. Use your own packaging to check.
 12. Bake for 15 minutes and check on it. If the top is firm then take them out. If it gives a little then leave for another 5 minutes and check again. The cupcake style ones should only need about 15 mins.
 13. Leave to cool.
 14. Fill the saucepan with water and boil on the hob.
-15. Break of the 4 squares of chocolate and put them in the glass bowl.
+15. Break off the 4 squares of chocolate and put them in the glass bowl.
 16. Place the bowl on top of the saucepan.
     - The heat from the boiling water will melt the chocolate in no time
-17. Once melted (and the slab or muffins have cooled) drizzle the melted chocolate of the top or smear it in a thin layer. (Remove the muffins from the tin before drizzling or things get messy)
+17. Once melted (and the slab or muffins have cooled) drizzle the melted chocolate on the top or smear it in a thin layer. (Remove the muffins from the tin before drizzling or things get messy)
 18. Put them in the fridge.
 19. When cool (the shine should be gone from the chocolate) cut the slab into brownie sized pieces. I normally get about 16 out of a batch.
 20. Keep in a sealed container in the fridge and enjoy as a snack.
 
-Each bar should be about 125 calories and high in protein
+## The result
+
+Each bar should be about 125 calories and high in protein.
 Add some Greek Yoghurt for a boost in good fats too.
