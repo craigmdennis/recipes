@@ -1,8 +1,8 @@
 # Chocolate Orange Protein Bars
 
-## Ingredients
+<b>All calorie counts are approximate. Use your own packaging to check.</b>
 
-All calorie counts are approximate. Use your own packaging to check.
+## Ingredients
 
 - 150g Chocolate flavoured protein powder - 582kcal
 - 150g Porridge oats - 552kcal
