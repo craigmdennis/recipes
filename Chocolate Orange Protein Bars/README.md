@@ -49,3 +49,9 @@
 
 Each bar should be about 125 calories and high in protein.
 Add some Greek Yoghurt for a boost in good fats too.
+
+![Protein Bars][bars]
+![Cupcake][cupcake]
+
+[cupcake]: https://raw.github.com/craigmdennis/recipes/master/Chocolate%20Orange%20Protein%20Bars/cupcake.jpg "Cupcakes"
+[bars]: https://raw.github.com/craigmdennis/recipes/master/Chocolate%20Orange%20Protein%20Bars/bars-with-greek-yoghurt.jpg "Protein Bars with Greek Yoghurt"
